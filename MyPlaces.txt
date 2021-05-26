@@ -1,0 +1,13 @@
+Named,None,319,203,En plats utan kategori
+Described,None,266,466,abc,En beskriven plats utan kategori
+Named,Train,457,178,abc
+Described,Bus,831,475,abc,En buss
+Described,Underground,634,512,Bl� linje,G�r till Kista
+Named,Bus,823,166,abc
+Described,Underground,678,583,abc,Vart g�r den?
+Described,Train,705,231,f,f
+Named,None,282,141,abc
+Named,None,142,233,P� k�nd plats
+Described,Train,434,438,Uppt�get,G�r norrut
+Described,Bus,854,558,123,En buss
+Named,Underground,637,152,Gr�n linje
